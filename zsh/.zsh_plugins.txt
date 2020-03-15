@@ -1,0 +1,2 @@
+zdharma/fast-syntax-highlighting
+zsh-users/zsh-autosuggestions
